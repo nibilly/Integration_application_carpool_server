@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="Carpool" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="json-20190722" />
+          <element id="library" level="project" name="jax-rs-ri-2.0-rc1" />
+        </element>
       </element>
     </root>
   </artifact>
